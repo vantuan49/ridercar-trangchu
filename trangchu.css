@@ -407,6 +407,7 @@ body {
   margin-right: 10px;
   overflow: hidden;
   transition: all 0.3s ease-out;
+  cursor: pointer;
 }
 .product:hover{
    transform: translateY(-10px);
